@@ -4,6 +4,5 @@ I am tired
 hello
 You
 
-yes
-hello
-No
+makeup
+noone likes
